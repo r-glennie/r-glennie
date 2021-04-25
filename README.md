@@ -1,4 +1,4 @@
-I am a Research Fellow in Statistics at the University of St Andrews. I work on ecological problems, e.g., estimating the size of wild animal populations, quantify how populations change over time, or finding out animals move around. 
+I am a Research Fellow in Statistics at the University of St Andrews. I work on ecological problems, e.g., estimating the size of wild animal populations, quantifying how populations change over time, or finding out animals move around. 
 
 I am actively developing R packages to implement my research methods, e.g. r-glennie/openpopscr and r-glennie/moveds. 
 
